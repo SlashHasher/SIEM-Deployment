@@ -22,7 +22,7 @@ Deployed a cloud-based SIEM using Microsoft Sentinel and Log Analytics Workspace
 
 
 <p align="center">
-Go over to Microsoft Azure and create an account. Now we have to create a Virtual Machine to act as our honeypot <br/>
+Go over to Microsoft Azure and create an account. After that, we will have to create a Virtual Machine to act as our honeypot <br/>
 <img src="https://i.imgur.com/D9BQNsS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
