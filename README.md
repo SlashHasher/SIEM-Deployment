@@ -1,4 +1,4 @@
-<h1>Cloud SIEM Deployment – Microsoft Sentinel (Azure)</h1>
+<h1> 🛡️ Cloud SIEM Deployment – Microsoft Sentinel (Azure)</h1>
 
  
 
@@ -94,10 +94,9 @@ Look at it go ! So many alerts on our honeypot (none of them are severe, there a
 <img src="https://i.imgur.com/O1oA1ib.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-And with that, our mini fun project comes to an end 🥺 Thank you for tuning in !
+<h2> ✅ Conclusion</h2>
+This lab provided hands-on experience with deploying and configuring a cloud-native SIEM using Microsoft Sentinel. By leveraging a honeypot VM to generate real-world telemetry, I was able to simulate attacker behavior, analyze security events using KQL, and build actionable detection rules. The project reinforced key concepts in cloud security monitoring, log analytics, and incident detection within modern enterprise environments.
 <br />
-<br />
-
 
 
 
