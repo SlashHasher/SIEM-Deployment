@@ -50,7 +50,7 @@ Now we will connect to the VM using RDP port 3389 by using the public ip address
 <img src="https://i.imgur.com/4RUYXdo.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set up the VM (I dont like spyware)    <br/>
+Set up the profile inside the VM <br/>
 <img src="https://i.imgur.com/bE1mmgC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
