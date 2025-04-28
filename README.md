@@ -16,7 +16,7 @@ Deployed a cloud-based SIEM using Microsoft Sentinel and Log Analytics Workspace
 
 - <b>Microsoft Azure</b> 
 
-<h2>Project Documentation & Walkthrough:</h2>
+<h2>Project Documentation & Walkthrough </h2>
 
 
 
