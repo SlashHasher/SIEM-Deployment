@@ -87,7 +87,7 @@ Lets test of our logs are being collected properly, we need to focus on EventID 
 <br />
 <br />
 Now we head over to Microsoft Sentinel to use as our SIEM of choice to aggregate the logs <br/>
-<img src="https://i.imgur.com/FT1gkNs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vWxswqB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Look at it go ! So many alerts on our honeypot (none of them are severe, there are many alerts because we allowed all events)  <br/>
